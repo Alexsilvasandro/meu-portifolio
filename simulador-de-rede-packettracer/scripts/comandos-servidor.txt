@@ -1,0 +1,5 @@
+# Notas para configuração de serviços no SERVIDOR (Packet Tracer)
+- Ativar serviço DHCP apenas se optar por DHCP no servidor (em vez do roteador).
+- Web Server: publicar página simples "Intranet TechSolutions".
+- FTP: criar usuário 'ftpuser' com diretório compartilhado.
+- DNS: entrada 'intranet.techsolutions.local' -> 192.168.10.100 (exemplo).
